@@ -9,6 +9,7 @@ Due to the nature of the 新字体 "simplification" it's really hard to make a p
 **Ressources used:**
 
 新字体/旧字体: https://www.asahi-net.or.jp/~ax2s-kmtn/ref/old_chara.html
+
 modifications: 翻 飜 removed as they are different characters. The former is sometimes used as a 代用字 for the latter.
 
 標準字体/許容字体: https://glyphwiki.org/wiki/Group:%e6%8b%a1%e5%bc%b5%e6%96%b0%e6%97%a7
