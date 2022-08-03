@@ -10,6 +10,6 @@ Due to the nature of the 新字体 "simplification" it's really hard to make a p
 
 新字体/旧字体: https://github.com/metasta/shinjigen-glyph (beautiful work of transcribing 新字源字)
 
-The MJ_ID can be looked up using the [文字情報基盤 search engine](https://moji.or.jp/mojikibansearch/basic) which provides the corresponding character form and additional information.
+The MJ_ID can be looked up using the [文字情報基盤 search engine](https://moji.or.jp/mojikibansearch/basic) which provides the corresponding character form and additional information. I have also archived the png rendering of each glyph in the assets folder.
 
 標準字体/許容字体: https://glyphwiki.org/wiki/Group:拡張新旧
