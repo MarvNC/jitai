@@ -1,5 +1,5 @@
 # jitai
-List of 新字体/旧字体 and 標準字体/許容字体 in comparison to each other.
+List of 新字体/旧字体 and 標準字体/許容字体 in comparison to each other. For reference, a copy of https://github.com/metasta/shinjigen-glyph is also included.
 
 **Notes:**
 
