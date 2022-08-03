@@ -12,4 +12,4 @@ Due to the nature of the 新字体 "simplification" it's really hard to make a p
 
 The MJ_ID can be looked up using the [文字情報基盤 search engine](https://moji.or.jp/mojikibansearch/basic) which provides the corresponding character form and additional information.
 
-標準字体/許容字体: https://glyphwiki.org/wiki/Group:%e6%8b%a1%e5%bc%b5%e6%96%b0%e6%97%a7
+標準字体/許容字体: https://glyphwiki.org/wiki/Group:拡張新旧
